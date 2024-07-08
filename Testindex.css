@@ -9,4 +9,36 @@
       bottom: 20px;
       left: 20px;
     }
+.cp_blockdesign01 {
+	border-width: 1px;
+	border-color: #757575;
+	border-style: solid;
+	border-radius: 4px;
+	box-shadow: 0px 0px 0px 1px #BDBDBD;
+}
+.cp_blockdesign01 .cp_authorname {
+	display: flex;
+	border-bottom: 1px solid #757575;
+}
+.cp_blockdesign01 .cp_authorname h2 {
+	margin: 0 0.5em;
+	width: 70%;
+}
+.cp_blockdesign01 .cp_authorname ul {
+	margin: 0 0;
+	padding: 0.5em 0;
+	width: 30%;
+	text-align: center;
+	background: #757575;
+}
+.cp_blockdesign01 .cp_authorname li {
+	display: inline;
+	padding: 0 0.5em;
+}
+.cp_blockdesign01 .cp_authorname li a {
+color: #ffffff;
+}
+.cp_blockdesign01 .cp_authorinfo {
+	padding: 1em;
+}
   </style>
